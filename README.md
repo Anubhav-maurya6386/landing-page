@@ -12,12 +12,7 @@ This is a simple and elegant landing page for a real estate project, built using
 * CSS3: Styling the layout, colors, fonts, and animations.
 
 ## Installation
-**1. Clone the repository**:
-```
-git clone https://github.com/theadiga27/landing-page.git
-cd landing-page
-```
-**2. Open the project**: 
+**. Open the project**: 
 Open the `index.html` file in your preferred web browser to view the landing page.
 
 ## Project Structure
@@ -36,8 +31,6 @@ Open the `index.html` file in your preferred web browser to view the landing pag
 * Update the content in `index.html` to match your real estate properties and company information.
 * Modify `styles.css` to change the color scheme, fonts, and layout as needed.
 
-## Website Link
-Link: https://adiga-real-estate.netlify.app/ 
 
 ## Screenshots
 ### **1. Hero Section**: 
